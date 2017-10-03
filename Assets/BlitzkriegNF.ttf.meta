@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 974503f338f17a444997af0aeb322afb
+timeCreated: 1504674373
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blitzkrieg NF
+  fontNames:
+  - Blitzkrieg NF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
